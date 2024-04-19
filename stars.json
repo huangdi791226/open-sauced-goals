@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "PatnosDD/Cuphead-PS-VITA",
+    "stargazers_count": 40,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "gdquest-demos/godot-3d-mannequin",
     "stargazers_count": 844,
     "open_issues_count": 12,
@@ -9,11 +15,11 @@
     "full_name": "PatnosDD/Hollow-Knight-PsVita",
     "stargazers_count": 53,
     "open_issues_count": 3,
-    "forks_count": 1
+    "forks_count": 0
   },
   {
     "full_name": "traefik/mesh",
-    "stargazers_count": 1991,
+    "stargazers_count": 1992,
     "open_issues_count": 40,
     "forks_count": 138
   }
