@@ -1,25 +1,25 @@
 [
   {
     "full_name": "lllyasviel/Omost",
-    "stargazers_count": 5836,
-    "open_issues_count": 58,
-    "forks_count": 354
+    "stargazers_count": 6141,
+    "open_issues_count": 62,
+    "forks_count": 369
   },
   {
     "full_name": "PatnosDD/Cuphead-PS-VITA",
-    "stargazers_count": 78,
+    "stargazers_count": 79,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "gdquest-demos/godot-3d-mannequin",
-    "stargazers_count": 855,
+    "stargazers_count": 856,
     "open_issues_count": 12,
     "forks_count": 68
   },
   {
     "full_name": "PatnosDD/Hollow-Knight-PsVita",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -27,6 +27,6 @@
     "full_name": "traefik/mesh",
     "stargazers_count": 2006,
     "open_issues_count": 42,
-    "forks_count": 140
+    "forks_count": 141
   }
 ]
