@@ -1,9 +1,9 @@
 [
   {
     "full_name": "keephq/keep",
-    "stargazers_count": 10979,
+    "stargazers_count": 10991,
     "open_issues_count": 422,
-    "forks_count": 1109
+    "forks_count": 1110
   },
   {
     "full_name": "Ompluscator/go-promise",
@@ -14,12 +14,12 @@
   {
     "full_name": "chebyrash/promise",
     "stargazers_count": 412,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 35
   },
   {
     "full_name": "lllyasviel/Omost",
-    "stargazers_count": 7655,
+    "stargazers_count": 7656,
     "open_issues_count": 87,
     "forks_count": 440
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "traefik/mesh",
-    "stargazers_count": 2079,
+    "stargazers_count": 2080,
     "open_issues_count": 42,
     "forks_count": 147
   }
