@@ -1,9 +1,9 @@
 [
   {
     "full_name": "keephq/keep",
-    "stargazers_count": 11413,
-    "open_issues_count": 476,
-    "forks_count": 1186
+    "stargazers_count": 11427,
+    "open_issues_count": 488,
+    "forks_count": 1190
   },
   {
     "full_name": "Ompluscator/go-promise",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "lllyasviel/Omost",
-    "stargazers_count": 7654,
+    "stargazers_count": 7653,
     "open_issues_count": 87,
     "forks_count": 441
   },
   {
     "full_name": "PatnosDD/Cuphead-PS-VITA",
-    "stargazers_count": 146,
+    "stargazers_count": 147,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -45,6 +45,6 @@
     "full_name": "traefik/mesh",
     "stargazers_count": 2082,
     "open_issues_count": 42,
-    "forks_count": 147
+    "forks_count": 146
   }
 ]
